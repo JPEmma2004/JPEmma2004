@@ -4,9 +4,9 @@
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- 👨‍💻 As a web developer, I am constantly learning and exploring new frameworks and technologies to optimize my skills and the development of my projects.
+- 💬 Ask me about my experience in web development and disciplined learning.
+- 🌱 As a web developer passionate about creating digital solutions, I am currently deepening my knowledge of database management and mastering modern frameworks. My goal is to strengthen my technical skills to build more scalable, efficient, and user-centric applications.
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
