@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<h1 align="center">Hi , Emmanuel Marín <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Emmanuel Marín <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
 
@@ -19,6 +19,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 #### 🖥️ Frameworks
 
@@ -42,6 +43,16 @@
 <a href="https://www.facebook.com/JPemma123"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 <a href="mailto:emmagodredmi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
+
+
+<div>
+<h2 align= "center">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=JPEmma2004&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JPEmma2004)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JPEmma2004&theme=material-palenight)](https://github.com/JPEmma2004)
+</div>
+
+
 
 ---
 
